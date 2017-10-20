@@ -1,0 +1,80 @@
+79
+0;Come Together;The Beatles
+1;Let It Be;The Beatles
+2;Revolution;The Beatles
+3;Get Back;The Beatles
+4;Sad But True;Metallica
+5;Whiskey In The Jar;Metallica
+6;Enter Sandman;Metallica
+7;The Unforgiven;Metallica
+8;One;Metallica
+9;The Memory Remains;Metallica
+10;Wherever I May Roam;Metallica
+11;Nothing Else Matters;Metallica
+12;Ain't My Bitch;Metallica
+13;Harvester Of Sorrow;Metallica
+14;The Unforgiven II;Metallica
+15;Fade To Black;Metallica
+16;Turn The Page;Metallica
+17;King Nothing;Metallica
+18;For Whom The Bell Tolls;Metallica
+19;Welcome Home (Sanitarium);Metallica
+20;Hero Of The Day;Metallica
+21;Until It Sleeps;Metallica
+22;Fuel;Metallica
+23;Master Of Puppets;Metallica
+24;Run To The Hills;Iron Maiden
+25;The Number Of The Beast;Iron Maiden
+26;You Give Love A Bad Name;Bon Jovi
+27;Livin' On A Prayer;Bon Jovi
+28;What Do You Got;Bon Jovi
+29;Wanted Dead Or Alive;Bon Jovi
+30;Who Says You Can't Go Home;Bon Jovi
+31;Summer Of '69;Bryan Adams
+32;(Everything I Do) I Do It For You;Bryan Adams
+33;Run To You;Bryan Adams
+34;Heaven;Bryan Adams
+35;Empty Spaces;Pink Floyd
+36;Mother;Pink Floyd
+37;Comfortably Numb;Pink Floyd
+38;Brain Damage;Pink Floyd
+39;Run Like Hell;Pink Floyd
+40;Young Lust;Pink Floyd
+41;Another Brick In The Wall (Part 1);Pink Floyd
+42;Money;Pink Floyd
+43;Time;Pink Floyd
+44;Hey You;Pink Floyd
+45;Learning To Fly;Pink Floyd
+46;Have A Cigar;Pink Floyd
+47;Eclipse;Pink Floyd
+48;Another Brick In The Wall (Part 2);Pink Floyd
+49;Speak To Me\/Breathe;Pink Floyd
+50;Wish You Were Here;Pink Floyd
+51;Welcome To The Machine;Pink Floyd
+52;Touch Me;The Doors
+53;When I'm Gone;The Doors
+54;Love Her Madly;The Doors
+55;Roadhouse Blues;The Doors
+56;It's Not My Time;The Doors
+57;When You're Young;The Doors
+58;Break On Through (To The Other Side);The Doors
+59;Kryptonite;The Doors
+60;People Are Strange;The Doors
+61;Here Without You;The Doors
+62;Breaking The Habit;Linkin Park
+63;Bleed It Out;Linkin Park
+64;What I've Done;Linkin Park
+65;In The End;Linkin Park
+66;Waiting For The End;Linkin Park
+67;Crawling;Linkin Park
+68;New Divide;Linkin Park
+69;One Step Closer;Linkin Park
+70;Lying From You;Linkin Park
+71;Faint;Linkin Park
+72;Given Up;Linkin Park
+73;Somewhere I Belong;Linkin Park
+74;Numb;Linkin Park
+75;Shadow Of The Day;Linkin Park
+76;No Love (w\/ Lil Wayne);Eminem
+77;Not Afraid;Eminem
+78;Love The Way You Lie (w\/ Rihanna);Eminem

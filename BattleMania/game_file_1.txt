@@ -1,0 +1,9 @@
+Hero;Maximus;50;50;50;Victory is mine!;Hero_1.gif
+Enemy;Malphite;28;34;30;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Malzahar;64;43;55;You're pathetic;Enemy_2.gif
+Enemy;Poppy;49;69;28;Hahaha you lose!;Enemy_2.gif
+Enemy;Shen;40;53;71;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Wukong;34;52;28;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Riven;73;55;56;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Akali;65;64;49;Silly hero, winning is for me!;Enemy_1.gif
+Enemy;Udyr;38;29;27;You're pathetic;Enemy_2.gif

@@ -1,0 +1,2 @@
+Hero;Maximus;50;50;50;Victory is mine!;Hero_1.gif
+Enemy;Malphite;28;34;30;Silly hero, winning is for me!;Enemy_3.gif

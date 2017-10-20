@@ -1,0 +1,16 @@
+Hero;Maximus;50;50;50;Victory is mine!;Hero_1.gif
+Enemy;Skarner;73;48;58;Silly hero, winning is for me!;Enemy_2.gif
+Enemy;Shen;55;31;52;Hahaha you lose!;Enemy_2.gif
+Enemy;Sion;51;69;59;You're pathetic;Enemy_1.gif
+Enemy;Alistar;64;26;31;Hahaha you lose!;Enemy_2.gif
+Enemy;Ahri;48;40;61;Silly hero, winning is for me!;Enemy_2.gif
+Enemy;Poppy;33;26;35;You're pathetic;Enemy_1.gif
+Enemy;Garen;51;48;Hahaha you lose!;Enemy_1.gif
+Enemy;Singed;28;40;32;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Kennen;41;52;42;You're pathetic;Enemy_1.gif
+Enemy;Lee Sin;43;37;38;Hahaha you lose!;Enemy_3.gif
+Enemy;Jarvan;67;28;56;You're pathetic;Enemy_2.gif
+Enemy;Fiddlesticks;55;45;31;Hahaha you lose!;Enemy_3.gif
+Enemy;Lee Sin;31;43;44;You're pathetic;Enemy_3.gif
+Enemy;Volibear;75;27;54;Silly hero, winning is for me!;Enemy_3.gif
+Enemy;Eve;27;58;28;You're pathetic;Enemy_2.gif
