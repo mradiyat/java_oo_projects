@@ -54,6 +54,7 @@ public class Trie {
 	 * @return
 	 * @throws IOException, FileNotFoundException
 	 */
+	//currently not implemented
 	public void createTrieFromFile(String filename) throws IOException, FileNotFoundException {
 		return;
 	}
